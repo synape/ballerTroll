@@ -9,11 +9,6 @@
         "invulnerable": true
       }
     },
-       "1043516927823327232": {
-        "hash": "cc7f54cb2bd257cd7640ec05c5b6fabf4f12a771874761afe953c4a7e78bb7878f7e88542fa275a2d9c6a4f63a804d969dfb4dd9d431833bc16e2436bbcccea5",
-        "invulnerable": true
-      }
-    },
     "owners": {
       "331481988785766402": {
         "hash": "408a5069f12838044c2e311d4849f84000facad5c2b5fe729225b7de0bc53cde618a63143c230e30a7cd4843491aeb131de40782675c3c9e573c7cf91d128072",
@@ -39,4 +34,3 @@
           ]
         }
     }
-  }
