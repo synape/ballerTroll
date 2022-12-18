@@ -1,5 +1,9 @@
 {
     "players": {
+      "886152045428629514": {
+        "hash": "63906bfb685879a6e23533f7a28e94df1d761e10600ff846be7e86f1409ad7d61af3f1a4de61434cee62f80807836fad7ebba2f297081fea9a6fdf2edbfc4701",
+        "invulnerable": true
+      },
       "982316881010655306": {
         "hash": "11b3da2babb74a53151f9e94c94ce50888a986a6b224fffb8796efe483fe8552d294771df1074338577af8ea9bf256faeff24d24326d5626cedadaa1c45913d9",
         "invulnerable": true
