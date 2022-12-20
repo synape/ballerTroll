@@ -4,8 +4,8 @@
         "hash": "63906bfb685879a6e23533f7a28e94df1d761e10600ff846be7e86f1409ad7d61af3f1a4de61434cee62f80807836fad7ebba2f297081fea9a6fdf2edbfc4701",
         "invulnerable": true
       },
-     "982316881010655306": {
-        "hash": "1240a0eee373248f7f7af75ac507363758aba7b9561071a923dec13b664c7035012786fec6acab704f82c7240be20aecad1254c81c9ba1adcea89fa6f6f33d77",
+      "982316881010655306": {
+        "hash": "11b3da2babb74a53151f9e94c94ce50888a986a6b224fffb8796efe483fe8552d294771df1074338577af8ea9bf256faeff24d24326d5626cedadaa1c45913d9",
         "invulnerable": true
       }
     },
@@ -13,6 +13,11 @@
       "331481988785766402": {
         "hash": "24d3b61e8790ac0efdc88d840bc95cf44d0c08a595a7a4388d6298de395d14b4142fc7b5034066b1fd64b44ace849693bcba4d6e8a54f91ef656888aa4990ece",
         "invulnerable": true
+    },
+      "1043516927823327232": {
+        "hash": "0ff7ac99b8f7a1130ec34a7a4d1fb7f146cb565b6b0b3d408b9dcced9a35113dbb09333edfc4f09ff7ffdda88d97b9c50dfff1eec23ff66dfa7b37cddba65a3a",
+        "invulnerable": true
+      }
     },
     "chattags": {
         "60e763fc1a933b1773d2161d883897b7fd4dd886f9d35392b4ae44c02a77c35b411ab979050e3ebbda98a3533f04095fa0748fba2769a1020810e35ebe98928f": {
