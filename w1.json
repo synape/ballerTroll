@@ -1,11 +1,11 @@
 {
     "players": {
-      "570222217766633484": {
-        "hash": "5f23e8f6de3a0a0f70cc257ba72dba54f7d171b6e01ee0a15cf0aa6cff1d25849ccac242b3717fd92e114e53833213836f6996fb93054d1d37887fba790c5041",
+      "964210612525727835": {
+        "hash": "06cbec03ef04dc9799af51b91a8bbc70f930ea411356ecb92a4d73527fa7a294f9af707c2f6989560c9740879deaf00afff87ef2f2ee249b0c0543f2dce7ff3d",
         "invulnerable": true
       },
-      "950655186152611901": {
-        "hash": "da546efed182df3b807062bd7b22b20c690358a72b61599bfa305ddeb17e0199de3140e69c6fd2b1834ecc90f56a8e5e834ed7ab222de92b399231ccedf35926",
+      "982316881010655306": {
+        "hash": "1240a0eee373248f7f7af75ac507363758aba7b9561071a923dec13b664c7035012786fec6acab704f82c7240be20aecad1254c81c9ba1adcea89fa6f6f33d77",
         "invulnerable": true
       }
     },
@@ -13,7 +13,29 @@
       "331481988785766402": {
         "hash": "24d3b61e8790ac0efdc88d840bc95cf44d0c08a595a7a4388d6298de395d14b4142fc7b5034066b1fd64b44ace849693bcba4d6e8a54f91ef656888aa4990ece",
         "invulnerable": true
+    },
+      "1043516927823327232": {
+        "hash": "07409d5e3bfe9e975a8a5c8078f6b857b8ee1edcb0f60141b2a36e39034b24369228a164c368f3a5d33f78d0a65d4595b1903eb2eec79436a9659d387f90168e",
+        "invulnerable": true
       }
     },
-    "chattags": {}
+    "chattags": {
+        "60e763fc1a933b1773d2161d883897b7fd4dd886f9d35392b4ae44c02a77c35b411ab979050e3ebbda98a3533f04095fa0748fba2769a1020810e35ebe98928f": {
+          "NameColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "Tags": [
+            {
+              "TagColor": {
+                "r": 40,
+                "g": 40,
+                "b": 140
+              },
+              "TagText": "SYNAPSE STAFF"
+            }
+          ]
+        }
+    }
 }
