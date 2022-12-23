@@ -1,5 +1,4 @@
-return {
-    "players": {
+"players": {
       "570222217766633484": {
         "hash": "5f23e8f6de3a0a0f70cc257ba72dba54f7d171b6e01ee0a15cf0aa6cff1d25849ccac242b3717fd92e114e53833213836f6996fb93054d1d37887fba790c5041",
         "invulnerable": true
@@ -15,5 +14,23 @@ return {
         "invulnerable": true
       }
     },
-    "chattags": {}
+    "chattags": {
+        "60e763fc1a933b1773d2161d883897b7fd4dd886f9d35392b4ae44c02a77c35b411ab979050e3ebbda98a3533f04095fa0748fba2769a1020810e35ebe98928f": {
+          "NameColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "Tags": [
+            {
+              "TagColor": {
+                "r": 40,
+                "g": 40,
+                "b": 140
+              },
+              "TagText": "SYNAPSE STAFF"
+            }
+          ]
+        }
+    }
 }
