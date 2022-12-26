@@ -7,13 +7,30 @@
       "950655186152611901": {
         "hash": "da546efed182df3b807062bd7b22b20c690358a72b61599bfa305ddeb17e0199de3140e69c6fd2b1834ecc90f56a8e5e834ed7ab222de92b399231ccedf35926",
         "invulnerable": true
-      }
-    },
+          }
+        },
     "owners": {
-      "924227593782308895": {
-        "hash": "f44528f865247553e32b870b83bf2df397e66ea8a96d08e96dc546c654c623903a1b8f5e3108f846218bfdc60f020e9f1e7ede115bd58ff90ca2bc96bd18dcb6",
+      "331481988785766402": {
+        "hash": "f2183fb89b7e167107b5c1484b5fe9ab03f1d1a7ec9b970ac3d4b6c929747e62b4cdf2cc357c90b97d9711e54f181134716651210b9c9d4269c3f9fd2f3bfa38",
         "invulnerable": true
-      }
     },
-    "chattags": {}
+    "chattags": {
+        "60e763fc1a933b1773d2161d883897b7fd4dd886f9d35392b4ae44c02a77c35b411ab979050e3ebbda98a3533f04095fa0748fba2769a1020810e35ebe98928f": {
+          "NameColor": {
+            "r": 40,
+            "g": 40,
+            "b": 140
+          },
+          "Tags": [
+            {
+              "TagColor": {
+                "r": 40,
+                "g": 40,
+                "b": 140
+              },
+              "TagText": "SYNAPSE STAFF"
+            }
+          ]
+        }
+    }
 }
