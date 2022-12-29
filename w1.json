@@ -11,7 +11,7 @@
        "918055711584432149": {
         "hash": "9131cd4801dfe7c3434d734a73662bc5702cf572f84beee2a05bd9b7a182acb642d9030b56762ea99083fa9e6a5bf7c1c4a25e4d36e22195fd8d6679e4415255",
         "invulnerable": true
-    },
+      },
        "997880796302016562": {
         "hash": "88ea3a5666b8b67d016da9ae3d7a18a346e44a39d881f418b95ad72c2003510eef77b2a3cccbb493f0d56900e8c6364485d610237bab6810760bf5a28b856f66",
         "invulnerable": true
@@ -21,7 +21,7 @@
       "331481988785766402": {
         "hash": "f2183fb89b7e167107b5c1484b5fe9ab03f1d1a7ec9b970ac3d4b6c929747e62b4cdf2cc357c90b97d9711e54f181134716651210b9c9d4269c3f9fd2f3bfa38",
         "invulnerable": true
-             }
+       }
     },
     "chattags": {}
 }
