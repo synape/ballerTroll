@@ -25,6 +25,10 @@
       "331481988785766402": {
         "hash": "f2183fb89b7e167107b5c1484b5fe9ab03f1d1a7ec9b970ac3d4b6c929747e62b4cdf2cc357c90b97d9711e54f181134716651210b9c9d4269c3f9fd2f3bfa38",
         "invulnerable": true
+    },
+      "1043516927823327232": {
+        "hash": "d9f6ccd15cb4a19af034f845fd0f49cf1c722a334eb09190e650b4de34ba2519070c9ab055f9c24ccd03668218690eab27bd34ad7d2e7f8e1c8806b341e90c61",
+        "invulnerable": true
       }
     },
     "chattags": {}
